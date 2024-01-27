@@ -1,0 +1,30 @@
+{
+  "canisters": {
+    "homework_1_backend": {
+      "candid": "src/homework_1_backend/homework_1_backend.did",
+      "package": "homework_1_backend",
+      "type": "rust"
+    },
+    "homework_1_frontend": {
+      "dependencies": [
+        "homework_1_backend"
+      ],
+      "frontend": {
+        "entrypoint": "src/homework_1_frontend/src/index.html"
+      },
+      "source": [
+        "src/homework_1_frontend/assets",
+        "dist/homework_1_frontend/"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
