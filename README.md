@@ -7,8 +7,8 @@ A- For the front-end part
 
 ![1](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/3aa29c4f-8752-4036-ba03-e72d03a1a0c7)
 
-2- If we write a city name as an input and search, then related weather data of the city name and  weather condition image dynamically will be shown.
-Result: clear sky and its image and temperature data
+2- If we write a city name as an input and search, then related weather data of the city name and  weather condition image DYNAMICALLY will be shown.
+
 
 Weather data of Dublin => clear sky
 
