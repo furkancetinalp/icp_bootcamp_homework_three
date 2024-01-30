@@ -3,14 +3,13 @@ Instruction
 
 A- For the front-end part
 
+ => If we write a city name as an input and search, then related weather data of the city name and  weather condition image DYNAMICALLY will be shown.
+
 1- Main page
 
 ![1](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/3aa29c4f-8752-4036-ba03-e72d03a1a0c7)
 
-2- If we write a city name as an input and search, then related weather data of the city name and  weather condition image DYNAMICALLY will be shown.
-
-
-Weather data of Dublin => clear sky
+2- Weather data of Dublin => clear sky
 
 ![2_clear_sky](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/ab0a936a-8e37-4c12-8f4b-f6856ef5de3b)
 
