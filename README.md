@@ -1,4 +1,45 @@
 # homework_3
+Instruction
+
+A- For the front-end part
+
+1- Main page
+
+![1](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/3aa29c4f-8752-4036-ba03-e72d03a1a0c7)
+
+2- If we write a city name as an input and search, then related weather data of the city name and  weather condition image dynamically will be shown 
+Result: clear sky and its image and temperature data
+
+![2_clear_sky](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/ab0a936a-8e37-4c12-8f4b-f6856ef5de3b)
+
+3- Weather data of Tokio => partly cloud
+
+![3_partly_cloud](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/200648ff-26b7-4b60-bfd7-214ef55a9cc9)
+
+4- Weather data of Stockholm => rain
+
+![4_rain](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/bf64463c-2bd5-4e4a-82e4-c14f5bd5b9d9)
+
+5- Weather data of Puvirnituq (a willage in Canada) => snow
+
+![snow_again](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/51bcd827-bdc7-4765-b95f-a51dd9d255e9)
+
+6- We can search specific cities by clicking which are shown on the right side
+
+![6_right_widgets](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/8ddfeda2-2f73-438d-8d86-22e0d71a7c88)
+
+![7_wigdet_again](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/f4d755aa-180a-4e82-807e-a1e6f5f291d7)
+
+7- If we search for an invalid ciy, result will be similar to this picture:
+
+![8_invalid_city](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/9f66693c-582b-4962-b28c-5b284a4e6f4d)
+
+
+B- Backend canister
+
+![backend_canister](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/8e4adb0b-a68e-4b38-8fd8-553fa934ab59)
+
+
 
 Welcome to your new homework_3 project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
