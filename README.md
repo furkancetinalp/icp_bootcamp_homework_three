@@ -3,7 +3,7 @@ Instruction
 
 A- For the front-end part
 
- => <h1> If we write a city name as an input and search, then related weather info of the city and its weather condition image DYNAMICALLY will be shown. </h1>
+<h1> If we write a city name as an input and search, then related weather info of the city and its weather condition image DYNAMICALLY will be shown. </h1>
 
 1- Main page
 
