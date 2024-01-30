@@ -27,7 +27,7 @@ A- For the front-end part
 
 6- We can search specific cities by clicking which are shown on the right side
 
-![6_right_widgets](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/8ddfeda2-2f73-438d-8d86-22e0d71a7c88)
+![california](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/a9701bb7-c32a-4737-bf9c-1a8a10d594c8)
 
 ![7_wigdet_again](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/f4d755aa-180a-4e82-807e-a1e6f5f291d7)
 
