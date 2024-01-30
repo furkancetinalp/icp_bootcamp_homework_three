@@ -9,7 +9,8 @@ A- For the front-end part
 
 2- If we write a city name as an input and search, then related weather data of the city name and  weather condition image dynamically will be shown.
 Result: clear sky and its image and temperature data
- Weather data of Dublin => clear sky
+
+Weather data of Dublin => clear sky
 
 ![2_clear_sky](https://github.com/furkancetinalp/icp_bootcamp_homework_three/assets/99509540/ab0a936a-8e37-4c12-8f4b-f6856ef5de3b)
 
